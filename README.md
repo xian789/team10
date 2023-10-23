@@ -126,3 +126,4 @@ gantt
 
 ---
 ### 使用Figma劃出第一個使用案例的動態模擬畫面
+![PERT](figma.png)
