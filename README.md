@@ -96,3 +96,11 @@ gantt
 ![PERT](figma.png)
 
 ---
+
+---
+### 系統環境圖DFD與DFD 圖0
+![img](DFD.jpg)
+
+![img](DFD 圖0.jpg)
+
+---
