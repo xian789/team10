@@ -107,9 +107,9 @@ gantt
 
 ---
 ### QRcode 掃描循序圖與活動圖
-![img](QRcode 1.JPG)
+![img](QRcode1.JPG)
 
-![img](QRcode 2.JPG)
+![img](QRcode2.JPG)
 
 ---
 ### AR地圖循序圖與活動圖
