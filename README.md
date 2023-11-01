@@ -104,7 +104,7 @@ gantt
 
 ---
 ### UML類別圖
-
+![PERT](類別圖.png)
 ---
 ### QRcode 掃描循序圖與活動圖
 ![img](QRcode1.JPG)
