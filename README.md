@@ -113,9 +113,9 @@ gantt
 
 ---
 ### AR地圖循序圖與活動圖
-![img](AR.PNG)
+![img](AR.png)
 
-![img](AR1.PNG)
+![img](AR1.png)
 
 ---
 ### 智能客服循序圖與活動圖
