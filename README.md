@@ -147,3 +147,7 @@ gantt
 
 ### 其他協助
 ![img](其他協助.jpg)
+
+---
+### ERD
+![img](ERD.PNG)
